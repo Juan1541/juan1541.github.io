@@ -1,0 +1,164 @@
+[
+    {
+      "project_name": "Class-Portfolio-Website",
+      "link": "https://github.com/Juan1541/Class-Portfolio-Website",
+      "client": "Personal Project",
+      "description": "Small personal project that me and my class wanted to start, I created all that's in the project, need time to work together with my classmates on how to proceed with this project.",
+      "duration": "TBD",
+      "technologies_used": ["HTML/CSS"],
+      "team_size": 15,
+      "images_pro": "/images/website.png"
+    },
+    {
+      "project_name": "Asteriod-Game-with-Playlist",
+      "link": "https://github.com/Juan1541/Asteriod-Game-with-Playlist",
+      "client": "Personal Project",
+      "description": "Created an updated version of the Asteroid Game I made previously but now you can play music with it as well, which you can skip and relisten to songs as well.",
+      "duration": "1 month",
+      "technologies_used": ["HTML/CSS", "JavaScript", "PHP"],
+      "team_size": 1,
+      "images_pro": "/images/asteroidm.png"
+    },
+    {
+      "project_name": "Music-Player",
+      "link": "https://github.com/Juan1541/Music-Player",
+      "client": "Personal Project",
+      "description": "Made a music player that has a few songs that I have upload to play, can skip, relisten, pause, play, etc on all the songs I have put.",
+      "duration": "2 months",
+      "technologies_used": ["HTML/CSS", "JavaScript"],
+      "team_size": 1,
+      "images_pro": "/images/music.png"
+    },
+    {
+      "project_name": "AndroidFinalProject",
+      "link": "https://github.com/Juan1541/AndroidFinalProject",
+      "client": "School Project",
+      "description": "Made a similar Android app like Whatsapp, you can message and recieve texts thanks to the Firebase database.",
+      "duration": "2 months",
+      "technologies_used": ["Java"],
+      "team_size": 3,
+      "images_pro": "/images/android.png"
+    },
+    {
+      "project_name": "CloudComputingClass",
+      "link": "https://github.com/Juan1541/CloudComputingClass",
+      "client": "School Project",
+      "description": "Made a PC part builder website for me in order to upload my store on to there with Amazon Cloud Services for class project.",
+      "duration": "4 months",
+      "technologies_used": ["HTML/CSS"],
+      "team_size": 1,
+      "images_pro": "/images/cloud.png"
+    },
+    {
+      "project_name": "Weather-Platform",
+      "link": "https://github.com/Juan1541/Weather-Platform",
+      "client": "Personal Project",
+      "description": "Made a weather app to tell you how's the weather anywhere in the world at the present time when using it.",
+      "duration": "1 months",
+      "technologies_used": ["HTML/CSS", "JavaScript"],
+      "team_size": 1,
+      "images_pro": "/images/weather.png"
+    },
+    {
+      "project_name": "Digital-CLock-Sus",
+      "link": "https://github.com/Juan1541/Digital-CLock-Sus",
+      "client": "Personal Project",
+      "description": "Made a clock that has a funny gif of the Among Us Crewmate dancing, this was mostly for fun.",
+      "duration": "1 week",
+      "technologies_used": ["HTML/CSS", "JavaScript"],
+      "team_size": 1,
+      "images_pro": "/images/clocksus.png"
+    },
+    {
+      "project_name": "RTOS",
+      "link": "https://github.com/Juan1541/RTOS",
+      "client": "School Project",
+      "description": "This is a list of all projects, however my team make a seperate branch in order to work our project which was to measure the pressure of the water current when using a device connected to a RTOS machine giving us the exact amount and how much water is being filled. ",
+      "duration": "4 months",
+      "technologies_used": ["C", "Juypter Notebook", "Makefile", "Assembly"],
+      "team_size": 3,
+      "images_pro": "/images/rtos.png"
+    },
+    {
+      "project_name": "People-s-Drawings",
+      "link": "https://github.com/Juan1541/People-s-Drawings",
+      "client": "Personal Project",
+      "description": "Made a python program and used external library to use as refernce in order to draw famous people such as Spider-Man and Iron Man.",
+      "duration": "1 week",
+      "technologies_used": ["Python"],
+      "team_size": 1,
+      "images_pro": "/images/ironman.png"
+    },
+    {
+      "project_name": "Among-Us",
+      "link": "https://github.com/Juan1541/Among-Us",
+      "client": "Personal Project",
+      "description": "Made a drawing with python script in order to draw the Among Us Crewmate.",
+      "duration": "2 weeks",
+      "technologies_used": ["Python"],
+      "team_size": 1,
+      "images_pro": "/images/among.png"
+    },
+    {
+      "project_name": "Login-Page",
+      "link": "https://github.com/Juan1541/Login-Page",
+      "client": "Personal Project",
+      "description": "Made a Login page, simple and easy, nice looking as well, jsut to improve my web development skills.",
+      "duration": "1 months",
+      "technologies_used": ["HTML/CSS"],
+      "team_size": 1,
+      "images_pro": "/images/login.png"
+    },
+    {
+      "project_name": "Asteroid-Game",
+      "link": "https://github.com/Juan1541/Asteroid-Game",
+      "client": "Personal Project",
+      "description": "Made a webpage game, similar to the Asteroid game for the retro games, but now ontop your PC.",
+      "duration": "3 months",
+      "technologies_used": ["HTML/CSS", "JavaScript"],
+      "team_size": 1,
+      "images_pro": "/images/asteroid.png"
+    },
+    {
+      "project_name": "three.js",
+      "link": "https://github.com/Juan1541/Jeopardy/tree/main",
+      "client": "School Project",
+      "description": "Made a branch from the three.js project in order to use this for a school prject to render 3-D objects onto my CodePen Projects.",
+      "duration": "4 months",
+      "technologies_used": ["HTML/CSS", "JavaScript", "Roff"],
+      "team_size": 3,
+      "images_pro": "/images/three.png"
+    },
+    {
+      "project_name": "GYV",
+      "link": "https://github.com/Juan1541/GYV",
+      "client": "School Project",
+      "description": "Made a repository to have my images to be able to upload and make reference to in my CodePen Projects.",
+      "duration": "4 months",
+      "technologies_used": ["HTML/CSS", "JavaScript"],
+      "team_size": 3,
+      "images_pro": "/images/gyv.png"
+    }
+    ,
+    {
+      "project_name": "flaskProject1 ",
+      "link": "https://github.com/Juan1541/flaskProject1",
+      "client": "School Project",
+      "description": "Made a repository for my school project of making a website using flask.",
+      "duration": "4 months",
+      "technologies_used": ["HTML/CSS", "Python", "C", "PowerShell", "C++", "Mako"],
+      "team_size": 4,
+      "images_pro": "/images/flask.png"
+    },
+    {
+      "project_name": "Jeopardy",
+      "link": "https://github.com/Juan1541/Jeopardy/tree/main",
+      "client": "School Project",
+      "description": "Made a jepordy game with python for a school project.",
+      "duration": "2 months",
+      "technologies_used": ["Python"],
+      "team_size": 3,
+      "images_pro": "/images/jepordy.png"
+    }
+  ]
+  
