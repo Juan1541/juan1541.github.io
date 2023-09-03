@@ -24,4 +24,4 @@ click on the top left where the Home button is to go back to the Home Page.
 
 ## Thoughts
 Overall this was a fun project, it really made me get back into web development again, even though I believe some of the pages could use some more work and improvements, I believe this is a right step in the direction in order to improve myself,
-even if I don't get the job, this really made me more excited to learn more and to further my web developing skills. All in all, this was great!
+even if I don't get the job, this really made me more excited to learn more and to further my web developing skills, especially on the Liquid format, it was really interesting, I don't think I did a great job but I tried my best and I think I did a decent job. All in all, this was great!
